@@ -22,6 +22,14 @@ this will send the message every minute ;) see [cronjobs](https://www.thegeekstu
 
 Currently trying to connect it to a chatbot API and let the API chat for me :D
 
+## View and stop running cronjobs
+
+```
+crontab -l
+
+crontab -r
+```
+
 
 ## you need to save your imessage contact as a buddy on the mac first! then replace it eg 
 ```
